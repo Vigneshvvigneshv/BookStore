@@ -1,0 +1,44 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'Inter',sans-serif;
+  background-color: #eef7f7;
+  color: #0f1c1c;
+  line-height: 1.6;
+}
+/*------------------------
+TypoGraphy style
+--------------------- */
+
+h1{
+
+font-size:32px;
+margin: 0 0 16px;
+}
+
+h2{
+margin:0 0 16px;
+font-size:18px;
+}
+
+h3{
+margin:0 0 18px;
+font-size:18px;
+}
+
+p{
+  font-size: 15px;
+  line-height: 1.7;
+  color:#475569;
+  margin:0 0 14px;
+  letter-spacing: 0.5px;
+}
+
+button{
+  padding:9px 12px;
+}
+
